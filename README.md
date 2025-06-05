@@ -1,1 +1,2 @@
-# BRACU-Advising-Automated-Notifier-OUTDATED-
+# BRACU-Advising-Automated-Notifier [OUTDATED]
+

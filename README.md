@@ -8,6 +8,8 @@ BRAC University has transitioned from USIS to a new system called Connect (Stude
 🚀 BRACU Advising Course Seat Status Notifier 🎓🔔
 (Formerly for USIS - Now Outdated)
 
+ ⚡ <a href="https://github.com/AnonXarkA/BRACU-Advising-Seat_Status-Automated-Notifier-OUTDATED-/blob/main/main.py">Script</a> <br>
+
 Never miss an open seat again! This bot was your personal automated assistant for monitoring course availability on the BRAC University USIS portal. It tirelessly checked for open spots in your desired courses and sections, instantly notifying you via Slack the moment a seat became available.
 
 ✨ How It Worked (Legacy USIS System) ✨
